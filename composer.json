@@ -9,8 +9,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "twbs/bootstrap": "4.1.1",
-        "mad/mad-frm":"*"
+    "autoload": {
+        "psr-4": {
+            "\\Mad": "src"
+        }
     }
 }
