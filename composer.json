@@ -8,6 +8,11 @@
             "email": "mader12@yandex.ru"
         }
     ],
+        "extra": {
+        "branch-alias": {
+            "dev": "0.1"
+        }
+    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
