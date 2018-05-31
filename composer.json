@@ -13,7 +13,7 @@
             "dev": "0.1-dev"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "\\Mad\\": "src"
