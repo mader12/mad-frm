@@ -8,6 +8,7 @@
             "email": "mader12@yandex.ru"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "twbs/bootstrap": "4.1.1",
         "mad/mad-frm":"*"
