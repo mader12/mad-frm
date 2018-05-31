@@ -2,18 +2,14 @@
     "name": "mader12/mad-frm",
     "description": "framework",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "Drozhzhinov",
             "email": "mader12@yandex.ru"
         }
     ],
-        "extra": {
-        "branch-alias": {
-            "dev": "0.1-dev"
-        }
-    },
-    "minimum-stability": "stable",
+    
     "autoload": {
         "psr-4": {
             "\\Mad\\": "src"
