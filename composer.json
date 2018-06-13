@@ -4,6 +4,7 @@
     "description": "mad simple test framework",
     "keywords": ["test","framework"],
     "homepage": "https://github.com/mader12/mad-frm",
+    "varsion" : "0.0.1",
     "license": "MIT",
     "authors": [
         {
