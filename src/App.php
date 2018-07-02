@@ -1,7 +1,7 @@
 <?php
 namespace Mad;
 
-class Mad {
+class App {
     
     public function __constructor () {
        
